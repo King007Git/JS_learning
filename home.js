@@ -99,3 +99,4 @@ function resetTimer(){
 
 // window.localStorage.setItem('timer',timer);
 // console.log(localStorage);
+// Keshav Trivedi comment this line
